@@ -3,7 +3,5 @@
 - 항목 2 윤동현
 - 항목 3 학번 202415023
 `인라인 코드`
-#!/bin/bash
-
-echo "Hello, world!"
+#!/bin/bash echo "Hello, world!"
 
